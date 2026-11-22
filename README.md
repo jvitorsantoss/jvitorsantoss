@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="gif" width="300px" src="./assets/profile.gif">
+<img align="right" alt="gif" width="300px" src="https://i.pinimg.com/originals/23/2f/6d/232f6d8b5a6f966d276d6d8c505fa399.gif">
 
 ### `$ whoami`
 
