@@ -13,9 +13,9 @@ Curso **Engenharia de Software** na **Católica SC**, trabalho com **suporte té
 
 ---
 
-<img align="right" alt="gif" width="260px" src="https://i.pinimg.com/originals/23/2f/6d/232f6d8b5a6f966d276d6d8c505fa399.gif">
-
 ### ⚡ Agora
+
+<img align="right" alt="gif" width="260px" src="https://i.pinimg.com/originals/23/2f/6d/232f6d8b5a6f966d276d6d8c505fa399.gif">
 
 - 📚 Estudando segurança ofensiva com a **Solyd**
 - 🎯 Objetivo: me tornar **Purple Team**
