@@ -6,14 +6,14 @@
 
 ---
 
-<img align="right" alt="gif" width="300px" src="https://i.pinimg.com/originals/23/2f/6d/232f6d8b5a6f966d276d6d8c505fa399.gif">
-
 ### `$ whoami`
 
 Me chamo **João Vitor Santos**, tenho 18 anos e sou de **Jaraguá do Sul - SC**.
 Curso **Engenharia de Software** na **Católica SC**, trabalho com **suporte técnico** e meu foco é **cibersegurança**.
 
-<br clear="right"/>
+---
+
+<img align="right" alt="gif" width="260px" src="https://i.pinimg.com/originals/23/2f/6d/232f6d8b5a6f966d276d6d8c505fa399.gif">
 
 ### ⚡ Agora
 
@@ -25,6 +25,8 @@ Curso **Engenharia de Software** na **Católica SC**, trabalho com **suporte té
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,linux,kali,git&theme=dark" alt="stack"/>
 </p>
+
+<br clear="right"/>
 
 ### 📊 GitHub Stats
 
